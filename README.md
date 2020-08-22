@@ -2,4 +2,4 @@
 ## Built With
 * Python
 ## Author
-* **Mohammed Zishaan Khadari** - [GitHub](https://github.com/zishaan@26
+* **Mohammed Zishaan Khadari** - [GitHub](https://github.com/zishaan@26)
