@@ -1,4 +1,5 @@
-# HackerRankRepository created on : Sun, Aug 23, 2020  2:53:05 AM
+# HackerRank
+Repository created on : Sun, Aug 23, 2020  2:53:05 AM
 ## Built With
 * Python
 ## Author
