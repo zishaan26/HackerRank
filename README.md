@@ -1,4 +1,4 @@
-# HackerRank
+# Python HackerRank
 Repository created on : Sun, Aug 23, 2020  2:53:05 AM
 
 Contains solutions to Practice Problem statements in [HackerRank - Python](https://www.hackerrank.com/domains/python)
