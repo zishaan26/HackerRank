@@ -6,15 +6,10 @@ def is_leap(year):
     if year%4 == 0:
         leap = True
         if year%100 == 0:
-            if year%400 == 0:
-                leap = True
-            else:
-                leap = False
+            leap = year%400 == 0
     else:
         leap = False
-    # Write your logic here
-    
     return leap
 
-year = 1988
+year = int(input())
 print (is_leap(year))
